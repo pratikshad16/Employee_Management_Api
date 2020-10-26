@@ -1,0 +1,14 @@
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\EmployeeManagement\EmployeeMangement\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

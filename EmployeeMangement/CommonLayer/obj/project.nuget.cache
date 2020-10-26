@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "efOgJBVoRHkv6zjQG594fFhX5DyZTIblG/OfpZeKRZw9B6YZYtYzSJtiVLGr1IDSjv9GofnTrmaxUuVu36LySA==",
+  "success": true,
+  "projectFilePath": "E:\\EmployeeManagement\\EmployeeMangement\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prana\\.nuget\\packages\\mongodb.bson\\2.11.3\\mongodb.bson.2.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}
